@@ -1,6 +1,15 @@
 # coverfly-test
 
-## Project setup
+### Techstack
+- Vue3
+- Vuex
+- Typescript
+- Unit-test with Jest
+
+### Live url
+https://coverfly-vue-test.netlify.app/
+
+### Project setup
 ```
 npm install
 ```
